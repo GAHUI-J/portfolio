@@ -1,9 +1,10 @@
-#DOROOWA
+# DOROOWA
 
 ### 목적
 *증가하는 비대면 온라인 서비스에 발맞춘 취미클래스 플랫폼*
 
 ### 개발환경
+![소요기술](https://user-images.githubusercontent.com/75714625/115999441-b0328100-a626-11eb-94d1-ab2ba7126058.PNG)
 
 
 ### 팀 역할
