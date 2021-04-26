@@ -1,4 +1,4 @@
-# DOROOWA
+# DOROOWA [시연]https://youtu.be/EvP0OykncCY
 
 ### 목적
 *증가하는 비대면 온라인 서비스에 발맞춘 취미클래스 플랫폼*
